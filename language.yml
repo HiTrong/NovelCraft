@@ -1,0 +1,70 @@
+vietnamese: {
+  introduction: "### NovelCraft là gì?\n\n- NovelCraft là một công cụ AI tiên tiến được thiết kế để hỗ trợ việc viết Lightnovel của bạn. Với NovelCraft, bạn có thể dễ dàng tạo ra ý tưởng mới, xây dựng nhân vật, và phác thảo cấu trúc câu chuyện. NovelCraft không chỉ giúp bạn lên kế hoạch cho cốt truyện mà còn chấm điểm và đưa ra nhận xét chi tiết về nội dung của bạn.\n\n### Tính năng nổi bật?\n\n- Một tính năng nổi bật của NovelCraft là khả năng tạo trang bìa và ảnh minh họa dựa trên nội dung câu chuyện của bạn (đang trong giai đoạn thử nghiệm). NovelCraft sử dụng mô hình ngôn ngữ lớn với các tác vụ NLP và công nghệ text2img để hỗ trợ bạn trong việc viết và minh họa.\n\n### Ai thì là người cần sử dụng NovelCraft?\n\n- Đối tượng của NovelCraft bao gồm nhà văn mới bắt đầu, nhà văn chuyên nghiệp, sinh viên, và những người yêu thích sáng tác. NovelCraft cung cấp cái nhìn tổng quan và sơ khai về cách triển khai một Lightnovel, từ đó giúp bạn có thêm nguồn cảm hứng và động lực để sáng tạo.\n\n### Chi phí cho việc sử dụng NovelCraft là?\n\n- Chắc chắn là hoàn toàn **MIỄN PHÍ**. NovelCraft sử dụng hoàn toàn mã nguồn mở cũng như là Free with Limit API đến từ Google. Chính vì là miễn phí nên NovelCraft gặp rất nhiều vấn đề trong việc vận hành cũng như là xử lý hệ thống.",
+  novel_input: "Nhập vào ý tưởng của bạn cho Lighnovel:",
+  number_of_words: "Số lượng từ mong muốn:",
+  illustration: "Ảnh bìa và ảnh minh họa",
+  review: "Đánh giá tự động",
+  get_summary_file: "Tải file tóm tắt",
+  number_of_illustration: "Số lượng ảnh mong muốn:",
+  stage1_label: "Phân tích ý tưởng",
+  stage1: {
+    step1: "Nhận ý tưởng...",
+    step2: "Phân tích...",
+    step3: "Xong!"
+  },
+  stage2_label: "Thiết kế và viết",
+  stage2: {
+    step1: "Biên kịch...",
+    step2: "Tiến hành viết...",
+    step3: "Xong!"
+  },
+  stage3_label: "Kết hợp và tổng kết",
+  stage3: {
+    step1: "Kết hợp...",
+    step2: "Tóm tắt...",
+    step3: "Ảnh minh họa...",
+    step4: "Đánh giá...",
+    step5: "Xong!"
+  },
+  api_key_blank: "Bạn chưa cung cấp đủ API yêu cầu! Vui lòng cung cấp để sử dụng tính năng này!",
+  chat_label: "Nhập vào nội dung bạn muốn",
+  state_chat: "Trạng thái yêu cầu",
+  tag_label: "Nhập các tag hình ảnh bằng tiếng anh",
+  terms: "#### Mục đích chính sách \n\n- Chính sách này nhằm giúp người dùng hiểu rõ cách thức hoạt động của NovelCraft. NovelCraft sẽ không chịu trách nhiệm cho bất kỳ hành động tố cáo về bản quyền light novel hay hình ảnh, tựa đề,... Để sử dụng NovelCraft, người dùng cần phải có được API của Gemini cũng như một API hoặc URL của một bên liên quan cho phép generate hình ảnh theo tag.\n\n#### Quyền và Nghĩa Vụ của Người Dùng\n\n- Người dùng được phép sử dụng mọi tính năng của NovelCraft miễn phí để tạo ra Lightnovel hoặc hình ảnh phục vụ nhu cầu cá nhân (xuất bản hoặc giải trí,...). Tuy nhiên, không được sử dụng danh nghĩa NovelCraft dưới các mục đích xuất bản, thương mại.\n\n- Người dùng phải đảm bảo sử dụng NovelCraft một cách đúng đắn, không yêu cầu những Lightnovel khiêu dâm, trái với thuần phong mỹ tục chung.\n\n#### Hỗ Trợ và Liên Hệ\n\nNgười dùng có thể liên hệ để nhận hỗ trợ qua thông tin sau:\n\n- Email: trongvo250403@gmail.com\n\n- Facebook: [Trọng Võ](https://www.facebook.com/profile.php?id=100059263009845)\n\n#### Thay Đổi và Cập Nhật Chính Sách\n\n- Chính sách này có thể thay đổi khi các chức năng và cách thức hoạt động mới được triển khai. Người dùng sẽ được thông báo về các thay đổi trong chính sách.\n\n#### Các Điều Khoản và Điều Kiện Bổ Sung\n\n- Chính sách này là một phần của thỏa thuận sử dụng dịch vụ của NovelCraft.\n\n- Việc tiếp tục sử dụng NovelCraft đồng nghĩa với việc người dùng đồng ý với các điều khoản và điều kiện trong chính sách này.",
+  
+}
+
+english: {
+  introduction: "### What is NovelCraft?\n\n- NovelCraft is an advanced AI tool designed to assist with your Lightnovel writing. With NovelCraft, you can easily generate new ideas, build characters, and outline your story structure. NovelCraft not only helps you plan your plot but also scores and provides detailed feedback on your content.\n\n### Key Features?\n\n- A standout feature of NovelCraft is its ability to create cover art and illustrations based on your story content (currently in the experimental phase). NovelCraft uses large language models for NLP tasks and text-to-image technology to support you in both writing and illustrating.\n\n### Who Should Use NovelCraft?\n\n- NovelCraft is aimed at novice and professional writers, students, and creative enthusiasts. It provides an overview and preliminary insight into developing a Lightnovel, helping you gain inspiration and motivation for your creative projects.\n\n### Cost of Using NovelCraft?\n\n- It is completely **FREE**. NovelCraft uses open-source code and offers a Free with Limit API from Google. Due to being free, NovelCraft faces various operational and system processing issues.",
+  novel_input: "Enter your idea for the Lightnovel:",
+  number_of_words: "Number of words require:",
+  illustration: "Cover image and illustration",
+  review: "Automatic Review",
+  get_summary_file: "Get summary file",
+  number_of_illustration: "Number of images require:",
+  stage1_label: "Idea analysis",
+  stage1: {
+    step1: "Getting idea...",
+    step2: "Analysis...",
+    step3: "Done!"
+  },
+  stage2_label: "Design and Write",
+  stage2: {
+    step1: "screenwriter...",
+    step2: "Start to write...",
+    step3: "Done!"
+  },
+  stage3_label: "Combine and Summary",
+  stage3: {
+    step1: "Combine...",
+    step2: "Summary...",
+    step3: "Illustration...",
+    step4: "Review...",
+    step5: "Done!"
+  },
+  api_key_blank: "You have not provided the required API! Please provide to use this feature!",
+  chat_label: "Enter the content of the chat",
+  state_chat: "Chat state",
+  tag_label: "Enter the tag of Image",
+  terms: "#### Policy Purpose\n\n- This policy aims to help users understand how NovelCraft operates. NovelCraft will not be held responsible for any copyright claims related to light novels, images, titles, etc. To use NovelCraft, users must have the API of Gemini as well as an API or URL from a related party that allows image generation based on tags.\n\n#### User Rights and Obligations\n\n- Users are allowed to freely use all features of NovelCraft to create light novels or images for personal needs (publication or entertainment, etc.). However, they may not use NovelCraft's name for publication or commercial purposes.\n\n- Users must ensure proper use of NovelCraft and not request light novels that are pornographic or contrary to general social morals.\n\n#### Support and Contact\n\nUsers can contact for support through the following information:\n\n- Email: trongvo250403@gmail.com\n\n- Facebook: [Trọng Võ](https://www.facebook.com/profile.php?id=100059263009845)\n\n#### Policy Changes and Updates\n\n- This policy may change as new features and operating methods are implemented. Users will be informed of policy changes.\n\n#### Additional Terms and Conditions\n\n- This policy is part of NovelCraft's service agreement.\n\n- Continued use of NovelCraft signifies that users agree to the terms and conditions in this policy.",
+}
