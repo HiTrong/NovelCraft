@@ -17,6 +17,10 @@ A standout feature of NovelCraft is its ability to create cover art and illustra
 
 NovelCraft is aimed at novice and professional writers, students, and creative enthusiasts. It provides an overview and preliminary insight into developing a Lightnovel, helping you gain inspiration and motivation for your creative projects.
 
+- **Demo**
+
+Tiktok video: https://www.tiktok.com/@tml2504/video/7399913761013861640
+
 
 # ❓ How to use
 
